@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676473781280",
+    "project_id": "rj-whatsapp",
+    "storage_bucket": "rj-whatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676473781280:android:4f944affc0345466ce1045",
+        "android_client_info": {
+          "package_name": "com.example.rjwhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676473781280-78o0lgfab4imjbd0904d4d52fv7885to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXXgc8DjNMEJ_8N7zPCdgkiX0p69vxoX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676473781280-78o0lgfab4imjbd0904d4d52fv7885to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
